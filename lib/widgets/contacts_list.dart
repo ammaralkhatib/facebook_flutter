@@ -20,7 +20,7 @@ class ContactsList extends StatelessWidget {
             children: [
               Expanded(
                 child: Text(
-                  'Contactsssss',
+                  'Contacts',
                   style: TextStyle(
                     color: Colors.grey[600],
                     fontSize: 18.0,
